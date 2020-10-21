@@ -1,4 +1,4 @@
-export const FullName = 'Zach' //Copy and paste your name between the quotes
+export const FullName = 'Kallie' //Copy and paste your name between the quotes
 
 export const GithubLink = 'https://github.com/ZachJHall' // your Github link within the quotes
 
