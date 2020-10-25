@@ -2,7 +2,7 @@ export const FullName = 'Kallie' //Copy and paste your name between the quotes
 
 export const GithubLink = 'https://github.com/ZachJHall' // your Github link within the quotes
 
-export const LinkedinLink = 'https://linkedin.com/in/zachhall-cs' //Copy and paste your Linkedin link within the quotes
+export const LinkedinLink = 'https://www.linkedin.com/in/kallie-shook-1aa8211a7/' //Copy and paste your Linkedin link within the quotes
 
 export const Email = 'mailto:#' //Replace # with email
 
