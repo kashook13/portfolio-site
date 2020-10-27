@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/contact.css';
-import GitLogo from '../images/iconmonstr-github-1.svg';
+import GitLogo from '../images/BehanceLogo.PNG';
 import LinkedinLogo from '../images/iconmonstr-linkedin-4.svg';
 import EmailLogo from '../images/iconmonstr-email-10.svg';
 import * as Info from '../info';
